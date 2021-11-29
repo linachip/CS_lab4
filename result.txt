@@ -1,0 +1,12 @@
+Windows 10 is installed						Failed
+Expected : "^[Ww][Ii][Nn][Dd][Oo][Ww][Ss] 10.+$"
+Found : 
+
+Check Windows Release						Failed
+Expected : "1[8-9][0-9]{2}"
+Found : 
+
+18.8.5.1 (NG) Ensure 'Turn On Virtualization Based Security' is set to 'Enabled'						Failed
+18.8.5.2 (NG) Ensure 'Turn On Virtualization Based Security: Select Platform Security Level' is set to 'Secure Boot and DMA Protection'						Failed
+18.8.5.3 (NG) Ensure 'Turn On Virtualization Based Security: Virtualization Based Protection of Code Integrity' is set to 'Enabled with UEFI lock'						Failed
+18.8.5.4 (NG) Ensure 'Turn On Virtualization Based Security: Require UEFI Memory Attributes Table' is set to 'True (checked)'						Failed
